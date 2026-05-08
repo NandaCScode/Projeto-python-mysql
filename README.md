@@ -6,17 +6,17 @@ O objetivo é praticar conceitos de backend, banco de dados e CRUD (Create, Read
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - ✔ Adicionar tarefas
 - ✔ Listar tarefas cadastradas
-- ✔ Atualizar status das tarefas
-- ✔ Remover tarefas
+- ✔ Atualizar status das tarefas - pendente
+- ✔ Remover tarefas -pendente
 - ✔ Integração com banco de dados MySQL
 
 ---
 
-## 🛠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python
 - MySQL
@@ -24,7 +24,7 @@ O objetivo é praticar conceitos de backend, banco de dados e CRUD (Create, Read
 
 ---
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Com este projeto, pratiquei:
 
@@ -36,7 +36,7 @@ Com este projeto, pratiquei:
 
 ---
 
-## 💻 Como executar o projeto
+##  Como executar o projeto
 
 1. Instale o MySQL e crie o banco:
 
