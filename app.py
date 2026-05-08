@@ -3,7 +3,7 @@ import mysql.connector
 conexao = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="SUA SENHA",
+    password="MINHA SENHA",
     database="estudos"
 )
 
@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS tarefas (
 
 nome_tarefa = input("Digite uma tarefa: ")
 
-cursor.execute("""
+cursor.execute("""git init
 INSERT INTO tarefas (nome, status)
 VALUES (%s, %s)
 """, (nome_tarefa, "Pendente"))
